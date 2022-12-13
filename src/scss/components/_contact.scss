@@ -1,0 +1,11 @@
+.contact {
+  form {
+    label {
+      margin: 10px 0 15px 0;
+
+      &:last-child {
+        margin: 0;
+      }
+    }
+  }
+}

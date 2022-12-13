@@ -1,0 +1,16 @@
+//---- Global -----\\
+@import "./global/global";
+@import "./global/fonts"; 
+@import "./global/variables";
+@import "./global/img";
+@import "./global/buttons";
+
+// ----- Components -----\\
+@import "./components/footer";
+@import "./components/header";
+@import "./components/video";
+@import "./components/info";
+@import "./components/projects";
+@import "./components/newsletter";
+@import "./components/contact";
+@import "./components/actualites.scss";
